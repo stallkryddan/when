@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">when</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Button">knapp</string>
+    <string name="map">Mappa!</string>
+    <string name="tabellname">Name</string>
+    <string name="tabellcomment">Comment</string>
+    <string name="buttonview">View</string>
+    <string name="buttonupdate">Update</string>
+    <string name="getinfofromdb">get info from db</string>
+    <string name="enterrowid">Enter Row ID</string>
+    <string name="getinfo">Get Information</string>
+    <string name="editentry">Edit Entry</string>
+    <string name="deleteentry">Delete Entry</string>
+    
+</resources>
